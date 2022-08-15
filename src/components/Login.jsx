@@ -18,7 +18,7 @@ export default function Login() {
       <Modal show={show} onHide={handleClose}>
         <Modal.Header closeButton>
           <Modal.Title>
-            <img src="/images/logo.png" />
+            <img src={process.env.PUBLIC_URL + "/images/logo.png"} />
           </Modal.Title>
         </Modal.Header>
         <Modal.Body>
