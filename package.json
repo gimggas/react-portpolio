@@ -53,5 +53,5 @@
     "@babel/preset-react": "^7.18.6",
     "gh-pages": "^4.0.0"
   },
-  "homepage": "http://gimggas.github.io/react-portpolio"
+  "homepage": "http://gimggas.github.io/"
 }
